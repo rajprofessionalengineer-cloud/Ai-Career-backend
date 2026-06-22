@@ -13,7 +13,6 @@ import {
   Upload,
   X,
 } from "lucide-react";
-import type { AnyARecord } from "dns";
 
 interface Result {
   jobs: Job[];
